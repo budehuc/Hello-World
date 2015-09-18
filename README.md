@@ -1,2 +1,2 @@
 # Hello-World
-GitHub実践入門
+GitHub実践入門:smile:
