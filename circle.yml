@@ -1,3 +1,4 @@
 test:
   override:
-    - phpunit hello_world
+    - make test
+    
