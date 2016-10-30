@@ -1,4 +1,3 @@
 test:
   override:
-    - make test
-    
+    - php hello_world.php
