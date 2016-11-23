@@ -1,0 +1,3 @@
+test:
+  override:
+    - php hello_world.php
