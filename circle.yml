@@ -1,4 +1,4 @@
 test:
   override:
-    - php hello_world.php
+    - ruby hello_world.rb
 
