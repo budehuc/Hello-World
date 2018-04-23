@@ -1,1 +1,0 @@
-git checkout HEAD~1 を行ってからこのファイルを作成した。
