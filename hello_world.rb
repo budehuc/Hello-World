@@ -1,1 +1,2 @@
-puts "Hello, World!" # very simple :)
+puts 'Hello, World!'
+puts 'Hello, git rebase!'
