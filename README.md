@@ -5,14 +5,14 @@ This description should not be in cherry branch but master branch.
 This repository is my sandbox perfectly :smile:
 
 ## Try
-- Git basic functions
-    - ~~Commit~~
-    - ~~Push~~
-    - ~~Pull~~
-    - Amend
-    - Rebase
+- ~~Git basic functions~~
+    - ~~commit~~
+    - ~~push~~
+    - ~~pull~~
+    - ~~amend~~
+    - ~~rebase~~
     - ~~Reset~~
-- GitHub basic functions
+- ~~GitHub basic functions~~
     - ~~Issues~~
     - ~~Wiki~~
     - ~~Project~~
