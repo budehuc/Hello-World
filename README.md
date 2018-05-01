@@ -11,7 +11,7 @@ This repository is my sandbox perfectly :smile:
     - ~~pull~~
     - ~~amend~~
     - ~~rebase~~
-    - ~~Reset~~
+    - ~~reset~~
 - ~~GitHub basic functions~~
     - ~~Issues~~
     - ~~Wiki~~
