@@ -2,14 +2,14 @@
 This repository is my sandbox perfectly :smile:
 
 ## Try
-- Git basic functions
+- ~~Git basic functions~~
     - ~~commit~~
     - ~~push~~
     - ~~pull~~
     - ~~amend~~
     - ~~rebase~~
     - ~~Reset~~
-- GitHub basic functions
+- ~~GitHub basic functions~~
     - ~~Issues~~
     - ~~Wiki~~
     - ~~Project~~
