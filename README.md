@@ -1,16 +1,13 @@
-# cherry branch
-This description should not be in cherry branch but master branch.
-
 # Hello-World as SandBox
 This repository is my sandbox perfectly :smile:
 
 ## Try
 - Git basic functions
-    - ~~Commit~~
-    - ~~Push~~
-    - ~~Pull~~
-    - Amend
-    - Rebase
+    - ~~commit~~
+    - ~~push~~
+    - ~~pull~~
+    - ~~amend~~
+    - ~~rebase~~
     - ~~Reset~~
 - GitHub basic functions
     - ~~Issues~~
